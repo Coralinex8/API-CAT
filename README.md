@@ -1,5 +1,5 @@
 # API-CAT
 
-# Autors 
+# Authors
 ## Coralito
 ## Dennis
